@@ -1,0 +1,13 @@
+# This text should be used with the Exercise 6 (sed command)
+foo is the first word
+This line should be deleted.
+Another line to delete.
+One more line to delete.
+hello world
+A regular line without any special pattern.
+
+world domination is imminent.
+The world is vast and full of possibilities.
+hello again, world!
+# End of text
+
