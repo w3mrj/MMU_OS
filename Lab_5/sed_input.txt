@@ -1,4 +1,4 @@
-# This text should be used with the Exercise 6 (sed command)
+# This text should be used with the Exercise 7 (sed command)
 foo is the first word
 This line should be deleted.
 Another line to delete.
